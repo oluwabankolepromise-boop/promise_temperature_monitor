@@ -48,4 +48,4 @@ Report saved to temperature_log.txt
 - How to split a program into functions so each part does one job.
 
 ## Author
-[Your full name], ND1 Mechatronics Engineering, YabaTech.
+OLUWABANKOLE PROMISE OLUWAGBEMISOKE, ND1 Mechatronics Engineering, YabaTech.
